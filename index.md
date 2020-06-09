@@ -11,7 +11,7 @@ Jun 5, 2020, 14h, Zoom   | Sharon et al., [Conflict-Based Search For Optimal Mul
 
 ## Queue
 
-* [A* Variants for Optimal Multi-Agent Pathfinding](https://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5233), 2012.
+* Goldenberg et al., [A* Variants for Optimal Multi-Agent Pathfinding](https://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5233), 2012.
 
 Here's a link to the [old reading group](old-reading.html).
 
