@@ -20,6 +20,10 @@ Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Mul
 * Fan, et al., [Additive Merge-and-Shrink Heuristics for Diverse Action Costs](https://www.ijcai.org/Proceedings/2017/0599.pdf) IJCAI 2017.
 * Helmert,. [A Planning Heuristic Based on Causal Graph Analysis](https://ai.dmi.unibas.ch/papers/helmert-icaps04.pdf), ICAPS 2004.
 * Segovia-Aguas et al., [Hierarchical Finite State Controllers for Generalized Planning](https://www.ijcai.org/Proceedings/16/Papers/458.pdf), IJCAI 2016.
+* Fickert, [A novel lookahead strategy ](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjNgfPuj_jqAhWjGbkGHe9ZAjEQFjAAegQIAxAB&url=https%3A%2F%2Ffai.cs.uni-saarland.de%2Ffickert%2Fpapers%2Ficaps20.pdf&usg=AOvVaw0ITEwup693TKgNld2XxcZs), ICAPS 2020.
+* Francès et al, [Generalized Potential Heuristics for Classical Planning ](https://doi.org/10.24963/ijcai.2019/771), ICJAI 2019.
+* Fiser et al, [Strengthening Potential Heuristics with Mutexes and Disambiguations ](https://aaai.org/ojs/index.php/ICAPS/article/view/6653/6507), ICAPS 2020.
+* Kuroiwa, Fukunaga, [Front-to-Front Heuristic Search for Satisficing Classical Planning](https://doi.org/10.24963/ijcai.2020/567), IJCAI 2020.
 * More papers on [MAPF](mapf.info)
 
 Here's a link to the [old reading group](old-reading.html).
