@@ -7,8 +7,8 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 Date       | Paper | Presenter
 -----------|-------|----------
 Sep 11, 2020, 14h, Zoom  | Ferber, et al., [Neural Network Heuristics for Classical Planning: A Study of Hyperparameter Space](https://ai.dmi.unibas.ch/papers/ferber-et-al-ecai2020.pdf), ECAI 2020. | André Grahl
-Aug 28, 2020, 14h, Zoom  | Imai, et al., [A Practical, Integer-Linear Programming Model for the Delete-Relaxation in Cost-Optimal Planning](https://doi.org/10.24963/ijcai.2019/771), ICJAI 2019. | André Grahl
-Aug 14, 2020, 14h, Zoom  | Francès et al, [Generalized Potential Heuristics for Classical Planning](https://doi.org/10.24963/ijcai.2019/771), ICJAI 2019. | Frederico
+Aug 28, 2020, 14h, Zoom  | Imai, et al., [A Practical, Integer-Linear Programming Model for the Delete-Relaxation in Cost-Optimal Planning](https://doi.org/10.24963/ijcai.2019/771), IJCAI 2019. | André Grahl
+Aug 14, 2020, 14h, Zoom  | Francès et al, [Generalized Potential Heuristics for Classical Planning](https://doi.org/10.24963/ijcai.2019/771), IJCAI 2019. | Frederico
 Jul 31, 2020, 14h, Zoom  | Steinmetz, et al., [LP Heuristics over Conjunctions: Compilation, Convergence, Nogood Learning](http://fai.cs.uni-saarland.de/hoffmann/papers/ijcai18b.pdf), IJCAI 2018. | -
 Jul 17, 2020, 14h, Zoom  | Huang, et al., [A Novel Transition Based Encoding Scheme for Planning as Satisfiability](https://www.cse.wustl.edu/~zhang/publications/SASE-Encoding-aaai10.pdf), AAAI 2010. | Marcus Ritt
 Jul  6, 2020, 14h, Zoom  |Goldenberg et al., [A* Variants for Optimal Multi-Agent Pathfinding](https://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5233), 2012.  | André Grahl
@@ -20,7 +20,7 @@ Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Mul
 * Helmert, et al., [Narrowing the Gap Between Saturated and Optimal Cost Partitioning for Classical Planning](https://ai.dmi.unibas.ch/papers/seipp-et-al-aaai2017.pdf), AAAI 2017.
 * Seipp, [Pattern Selection for Optimal Classical Planning with Saturated Cost Partitioning](https://ai.dmi.unibas.ch/papers/seipp-ijcai2019.pdf), IJCAI 2019.
 * Helmert, et al., [Iterative Budgeted Exponential Search](https://ai.dmi.unibas.ch/papers/helmert-et-al-ijcai2019.pdf), ICAPS 2012.
-* Bonet, et al., [Optimal Planning for Delete-free Tasks with Incremental LM-cut](https://ai.dmi.unibas.ch/papers/pommerening-helmert-icaps2012.pdf), ICAPS 2012.
+* Pommerening, et al., [Optimal Planning for Delete-free Tasks with Incremental LM-cut](https://ai.dmi.unibas.ch/papers/pommerening-helmert-icaps2012.pdf), ICAPS 2012.
 * Bonet, et al., [Higher-Dimensional Potential Heuristics for Optimal Classical Planning](https://ai.dmi.unibas.ch/papers/pommerening-et-al-aaai2017.pdf), AAAI 2017.
 * Cohen, et al., [Fat-and Heavy-Tailed Behavior in Satisficing Planning](https://tidel.mie.utoronto.ca/pubs/Cohen_AAAI18.pdf), AAAI 2018.
 * Hunag, et al., [An Optimal Temporally Expressive Planner: Initial Results and Application to P2P Network Optimization](https://aaai.org/ocs/index.php/ICAPS/ICAPS09/paper/download/702/1109), AAAI 2009.
