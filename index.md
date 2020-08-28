@@ -19,7 +19,7 @@ Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Mul
 
 * Helmert, et al., [Narrowing the Gap Between Saturated and Optimal Cost Partitioning for Classical Planning](https://ai.dmi.unibas.ch/papers/seipp-et-al-aaai2017.pdf), AAAI 2017.
 * Seipp, [Pattern Selection for Optimal Classical Planning with Saturated Cost Partitioning](https://ai.dmi.unibas.ch/papers/seipp-ijcai2019.pdf), IJCAI 2019.
-* Helmert, et al., [Iterative Budgeted Exponential Search](https://ai.dmi.unibas.ch/papers/helmert-et-al-ijcai2019.pdf), ICAPS 2012.
+* Helmert, et al., [Iterative Budgeted Exponential Search](https://ai.dmi.unibas.ch/papers/helmert-et-al-ijcai2019.pdf), IJCAI 2019.
 * Pommerening, et al., [Optimal Planning for Delete-free Tasks with Incremental LM-cut](https://ai.dmi.unibas.ch/papers/pommerening-helmert-icaps2012.pdf), ICAPS 2012.
 * Bonet, et al., [Higher-Dimensional Potential Heuristics for Optimal Classical Planning](https://ai.dmi.unibas.ch/papers/pommerening-et-al-aaai2017.pdf), AAAI 2017.
 * Cohen, et al., [Fat-and Heavy-Tailed Behavior in Satisficing Planning](https://tidel.mie.utoronto.ca/pubs/Cohen_AAAI18.pdf), AAAI 2018.
