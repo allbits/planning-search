@@ -6,6 +6,7 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 
 Date       | Paper | Presenter
 -----------|-------|----------
+Oct 9, 2020, 14h, Zoom   | Chen, et al., [Revisiting Suboptimal Search](https://www.cs.unh.edu/~ruml/papers/ios-socs19.pdf), SoCS 2019. | Frederico
 Sep 25, 2020, 14h, Zoom  | Cohen, et al., [Fat-and Heavy-Tailed Behavior in Satisficing Planning](https://tidel.mie.utoronto.ca/pubs/Cohen_AAAI18.pdf), AAAI 2018. | Marcus Ritt
 Sep 11, 2020, 14h, Zoom  | Ferber, et al., [Neural Network Heuristics for Classical Planning: A Study of Hyperparameter Space](https://ai.dmi.unibas.ch/papers/ferber-et-al-ecai2020.pdf), ECAI 2020. | Daniel
 Aug 28, 2020, 14h, Zoom  | Imai, et al., [A Practical, Integer-Linear Programming Model for the Delete-Relaxation in Cost-Optimal Planning](https://ai.dmi.unibas.ch/research/reading_group/imai-fukunaga-icaps2014ws.pdf), ECAI 2014. | André Grahl
@@ -31,10 +32,8 @@ Pommerening, et al., [Optimal Planning for Delete-free Tasks with Incremental LM
 Bonet, et al., [Higher-Dimensional Potential Heuristics for Optimal Classical Planning](https://ai.dmi.unibas.ch/papers/pommerening-et-al-aaai2017.pdf), AAAI 2017. | Aug 28, 2020 | Nov  6, 2020
 Segovia-Aguas et al., [Hierarchical Finite State Controllers for Generalized Planning](https://www.ijcai.org/Proceedings/16/Papers/458.pdf), IJCAI 2016. | Jul  6, 2020 | Nov 20, 2020
 Hatem, et al., [Bounded Suboptimal Heuristic Search in Linear Space](http://matthatem.com/papers/idees-socs-13.pdf), SoCS 2013. | Sep 25, 2020 | Dec 5, 2020
-Chen, et al., [Bounded Suboptimal Search in Linear Space: New Results](http://matthatem.com/papers/idasep-socs-14.pdf), SoCS 2019. | Sep 25, 2020 | Dec 5, 2020
+Hatem, et al., [Bounded Suboptimal Search in Linear Space: New Results](http://matthatem.com/papers/idasep-socs-14.pdf), SoCS 2014. | Sep 25, 2020 | Dec 5, 2020
 Holler, et al., [A Generic Method to Guide HTN Progression Search with Classical Heuristics](https://ai.dmi.unibas.ch/research/reading_group/hoeller-et-al-icaps2018.pdf), ICAPS 2018. | Sep 25, 2020 | Dec 5, 2020
-Fiser, et al., [Strengthening Potential Heuristics with Mutexes and Disambiguations](https://www.aaai.org/ojs/index.php/ICAPS/article/view/6653/6507), ICAPS 2020. | Sep 25, 2020 | Dec 5, 2020
-
 
 ¹Deadline is 70 days (5 meetings) after last time it received votes or was proposed.
 
