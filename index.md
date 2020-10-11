@@ -6,7 +6,8 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 
 Date       | Paper | Presenter
 -----------|-------|----------
-Oct 9, 2020, 14h, Zoom   | Chen, et al., [Revisiting Suboptimal Search](https://www.cs.unh.edu/~ruml/papers/ios-socs19.pdf), SoCS 2019. | Frederico
+Oct 23, 2020, 14h, Zoom  | Bandres, et al., [Planning with Pixels in (Almost) Real Time](https://bonetblai.github.io/reports/AAAI18-pixels.pdf), AAAI 2018. | André Grahl
+Oct  9, 2020, 14h, Zoom  | Chen, et al., [Revisiting Suboptimal Search](https://www.cs.unh.edu/~ruml/papers/ios-socs19.pdf), SoCS 2019. | Frederico
 Sep 25, 2020, 14h, Zoom  | Cohen, et al., [Fat-and Heavy-Tailed Behavior in Satisficing Planning](https://tidel.mie.utoronto.ca/pubs/Cohen_AAAI18.pdf), AAAI 2018. | Marcus Ritt
 Sep 11, 2020, 14h, Zoom  | Ferber, et al., [Neural Network Heuristics for Classical Planning: A Study of Hyperparameter Space](https://ai.dmi.unibas.ch/papers/ferber-et-al-ecai2020.pdf), ECAI 2020. | Daniel
 Aug 28, 2020, 14h, Zoom  | Imai, et al., [A Practical, Integer-Linear Programming Model for the Delete-Relaxation in Cost-Optimal Planning](https://ai.dmi.unibas.ch/research/reading_group/imai-fukunaga-icaps2014ws.pdf), ECAI 2014. | André Grahl
@@ -21,8 +22,6 @@ Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Mul
 
 Paper | Included | Current Deadline¹
 ------|----------|-----------------
-Fickert, [A Novel Lookahead Strategy for Delete Relaxation Heuristics in Greedy Best-First Search](https://fai.cs.uni-saarland.de/fickert/papers/icaps20.pdf), ICAPS 2020. | Jul 31, 2020 | Out  9, 2020
-Fiser et al, [Strengthening Potential Heuristics with Mutexes and Disambiguations ](https://aaai.org/ojs/index.php/ICAPS/article/view/6653/6507), ICAPS 2020. | Jul 31, 2020 | Out  9, 2020
 Helmert, et al., [Narrowing the Gap Between Saturated and Optimal Cost Partitioning for Classical Planning](https://ai.dmi.unibas.ch/papers/seipp-et-al-aaai2017.pdf), AAAI 2017. | Aug 28, 2020 | Nov  6, 2020
 Seipp, [Pattern Selection for Optimal Classical Planning with Saturated Cost Partitioning](https://ai.dmi.unibas.ch/papers/seipp-ijcai2019.pdf), IJCAI 2019. | Aug 28, 2020 | Nov 6, 2020
 Helmert, et al., [Iterative Budgeted Exponential Search](https://ai.dmi.unibas.ch/papers/helmert-et-al-ijcai2019.pdf), IJCAI 2019. | Aug 28, 2020 | Nov  6, 2020
@@ -41,6 +40,8 @@ Kuroiwa, Fukunaga, [Front-to-Front Heuristic Search for Satisficing Classical Pl
 * Fan, et al., [Additive Merge-and-Shrink Heuristics for Diverse Action Costs](https://www.ijcai.org/Proceedings/2017/0599.pdf) IJCAI 2017.
 * Helmert,. [A Planning Heuristic Based on Causal Graph Analysis](https://ai.dmi.unibas.ch/papers/helmert-icaps04.pdf), ICAPS 2004.
 * Hunag, et al., [An Optimal Temporally Expressive Planner: Initial Results and Application to P2P Network Optimization](https://aaai.org/ocs/index.php/ICAPS/ICAPS09/paper/download/702/1109), AAAI 2009.
+* Fickert, [A Novel Lookahead Strategy for Delete Relaxation Heuristics in Greedy Best-First Search](https://fai.cs.uni-saarland.de/fickert/papers/icaps20.pdf), ICAPS 2020.
+* Fiser et al, [Strengthening Potential Heuristics with Mutexes and Disambiguations ](https://aaai.org/ojs/index.php/ICAPS/article/view/6653/6507), ICAPS 2020.
 
 ## More
 
