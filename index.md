@@ -6,14 +6,15 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 
 Date       | Paper | Presenter
 -----------|-------|----------
-Oct 23, 2020, 14h, Zoom  | Bandres, et al., [Planning with Pixels in (Almost) Real Time](https://bonetblai.github.io/reports/AAAI18-pixels.pdf), AAAI 2018. | André Grahl
-Oct  9, 2020, 14h, Zoom  | Chen, et al., [Revisiting Suboptimal Search](https://www.cs.unh.edu/~ruml/papers/ios-socs19.pdf), SoCS 2019. | Frederico
-Sep 25, 2020, 14h, Zoom  | Cohen, et al., [Fat-and Heavy-Tailed Behavior in Satisficing Planning](https://tidel.mie.utoronto.ca/pubs/Cohen_AAAI18.pdf), AAAI 2018. | Marcus Ritt
-Sep 11, 2020, 14h, Zoom  | Ferber, et al., [Neural Network Heuristics for Classical Planning: A Study of Hyperparameter Space](https://ai.dmi.unibas.ch/papers/ferber-et-al-ecai2020.pdf), ECAI 2020. | Daniel
-Aug 28, 2020, 14h, Zoom  | Imai, et al., [A Practical, Integer-Linear Programming Model for the Delete-Relaxation in Cost-Optimal Planning](https://ai.dmi.unibas.ch/research/reading_group/imai-fukunaga-icaps2014ws.pdf), ECAI 2014. | André Grahl
+Nov  6, 2020, 14h, Zoom  | Badia et al., [Agent57: Outperforming the Atari Human Benchmark](https://arxiv.org/abs/2003.13350), ICML 2020; also [here](https://deepmind.com/blog/article/Agent57-Outperforming-the-human-Atari-benchmark) | Marcus Ritt
+Oct 23, 2020, 14h, Zoom  | Bandres et al., [Planning with Pixels in (Almost) Real Time](https://bonetblai.github.io/reports/AAAI18-pixels.pdf), AAAI 2018. | André Grahl
+Oct  9, 2020, 14h, Zoom  | Chen et al., [Revisiting Suboptimal Search](https://www.cs.unh.edu/~ruml/papers/ios-socs19.pdf), SoCS 2019. | Frederico
+Sep 25, 2020, 14h, Zoom  | Cohen et al., [Fat-and Heavy-Tailed Behavior in Satisficing Planning](https://tidel.mie.utoronto.ca/pubs/Cohen_AAAI18.pdf), AAAI 2018. | Marcus Ritt
+Sep 11, 2020, 14h, Zoom  | Ferber et al., [Neural Network Heuristics for Classical Planning: A Study of Hyperparameter Space](https://ai.dmi.unibas.ch/papers/ferber-et-al-ecai2020.pdf), ECAI 2020. | Daniel
+Aug 28, 2020, 14h, Zoom  | Imai et al., [A Practical, Integer-Linear Programming Model for the Delete-Relaxation in Cost-Optimal Planning](https://ai.dmi.unibas.ch/research/reading_group/imai-fukunaga-icaps2014ws.pdf), ECAI 2014. | André Grahl
 Aug 14, 2020, 14h, Zoom  | Francès et al, [Generalized Potential Heuristics for Classical Planning](https://doi.org/10.24963/ijcai.2019/771), IJCAI 2019. | Frederico
-Jul 31, 2020, 14h, Zoom  | Steinmetz, et al., [LP Heuristics over Conjunctions: Compilation, Convergence, Nogood Learning](http://fai.cs.uni-saarland.de/hoffmann/papers/ijcai18b.pdf), IJCAI 2018. | -
-Jul 17, 2020, 14h, Zoom  | Huang, et al., [A Novel Transition Based Encoding Scheme for Planning as Satisfiability](https://www.cse.wustl.edu/~zhang/publications/SASE-Encoding-aaai10.pdf), AAAI 2010. | Marcus Ritt
+Jul 31, 2020, 14h, Zoom  | Steinmetz et al., [LP Heuristics over Conjunctions: Compilation, Convergence, Nogood Learning](http://fai.cs.uni-saarland.de/hoffmann/papers/ijcai18b.pdf), IJCAI 2018. | -
+Jul 17, 2020, 14h, Zoom  | Huang et al., [A Novel Transition Based Encoding Scheme for Planning as Satisfiability](https://www.cse.wustl.edu/~zhang/publications/SASE-Encoding-aaai10.pdf), AAAI 2010. | Marcus Ritt
 Jul  6, 2020, 14h, Zoom  | Goldenberg et al., [A* Variants for Optimal Multi-Agent Pathfinding](https://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5233), 2012.  | André Grahl
 Jun 19, 2020, 14h, Zoom  | Lam et al., [Branch-and-Cut-and-Price for Multi-Agent Pathfinding](https://www.ijcai.org/Proceedings/2019/179), IJCAI, 2019. | Marcus Ritt
 Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Multi-Agent Path Finding](https://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/viewPaper/5062), AAAI 2012. | André Grahl
