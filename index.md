@@ -6,7 +6,7 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 
 Date       | Paper | Presenter
 -----------|-------|----------
-Nov  6, 2020, 14h, Zoom  | Badia et al., [Agent57: Outperforming the Atari Human Benchmark](https://arxiv.org/abs/2003.13350), ICML 2020; also [here](https://deepmind.com/blog/article/Agent57-Outperforming-the-human-Atari-benchmark) | Marcus Ritt
+Nov  20, 2020, 14h, Zoom  | Badia et al., [Agent57: Outperforming the Atari Human Benchmark](https://arxiv.org/abs/2003.13350), ICML 2020; also [here](https://deepmind.com/blog/article/Agent57-Outperforming-the-human-Atari-benchmark) | Marcus Ritt
 Oct 23, 2020, 14h, Zoom  | Bandres et al., [Planning with Pixels in (Almost) Real Time](https://bonetblai.github.io/reports/AAAI18-pixels.pdf), AAAI 2018. | André Grahl
 Oct  9, 2020, 14h, Zoom  | Chen et al., [Revisiting Suboptimal Search](https://www.cs.unh.edu/~ruml/papers/ios-socs19.pdf), SoCS 2019. | Frederico
 Sep 25, 2020, 14h, Zoom  | Cohen et al., [Fat-and Heavy-Tailed Behavior in Satisficing Planning](https://tidel.mie.utoronto.ca/pubs/Cohen_AAAI18.pdf), AAAI 2018. | Marcus Ritt
