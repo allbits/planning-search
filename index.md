@@ -6,7 +6,7 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 
 Date       | Paper | Presenter
 -----------|-------|----------
-Dec  4, 2020, 14h, Zoom  | Feng et al., [A Novel Automated Curriculum Strategy to Solve Hard Sokoban Planning  Instances](https://proceedings.neurips.cc/paper/2020/file/2051bd70fc110a2208bdbd4a743e7f79-Paper.pdf), NeurIPS 2020 | André Grahl
+Dec  4, 2020, 14h, Zoom  | Feng et al., [A Novel Automated Curriculum Strategy to Solve Hard Sokoban Planning  Instances](https://proceedings.neurips.cc/paper/2020/file/2051bd70fc110a2208bdbd4a743e7f79-Paper.pdf), NeurIPS 2020.| André Grahl
 Nov  20, 2020, 14h, Zoom  | Badia et al., [Agent57: Outperforming the Atari Human Benchmark](https://arxiv.org/abs/2003.13350), ICML 2020. | Marcus Ritt
 Oct 23, 2020, 14h, Zoom  | Bandres et al., [Planning with Pixels in (Almost) Real Time](https://bonetblai.github.io/reports/AAAI18-pixels.pdf), AAAI 2018. | André Grahl
 Oct  9, 2020, 14h, Zoom  | Chen et al., [Revisiting Suboptimal Search](https://www.cs.unh.edu/~ruml/papers/ios-socs19.pdf), SoCS 2019. | Frederico
