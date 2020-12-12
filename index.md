@@ -25,8 +25,6 @@ Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Mul
 
 Paper | Included | Current Deadline¹
 ------|----------|-----------------
-
-
 Battaglia, et al., [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf), arXiv 2018. | Dec 12, 2020 | Feb 22, 2020
 Shoham, et al., [The FESS Algorithm: A Feature Based Approach to Single-Agent Search](https://ieee-cog.org/2020/papers/paper_44.pdf), COC 2020. | Dec 12, 2020 | Feb 22, 2020
 Shen, et al., [Learning Domain-Independent Planning Heuristics with Hypergraph Networks](https://ojs.aaai.org/index.php/ICAPS/article/view/6754/6608), ICAPS 2020. | Nov 20, 2020 | Jan 30, 2020
