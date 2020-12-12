@@ -6,7 +6,7 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 
 Date       | Paper | Presenter
 -----------|-------|----------
-Dec 18, 2020, 14h, Zoom  | An LP-Based Approach for Goal Recognition as Planning, AAAI 2021 | Luísa
+Dec 18, 2020, 14h, Zoom  | Santos et al., An LP-Based Approach for Goal Recognition as Planning, AAAI 2021. | Luísa
 Dec  4, 2020, 14h, Zoom  | Feng et al., [A Novel Automated Curriculum Strategy to Solve Hard Sokoban Planning  Instances](https://proceedings.neurips.cc/paper/2020/file/2051bd70fc110a2208bdbd4a743e7f79-Paper.pdf), NeurIPS 2020.| André Grahl
 Nov  20, 2020, 14h, Zoom  | Badia et al., [Agent57: Outperforming the Atari Human Benchmark](https://arxiv.org/abs/2003.13350), ICML 2020. | Marcus Ritt
 Oct 23, 2020, 14h, Zoom  | Bandres et al., [Planning with Pixels in (Almost) Real Time](https://bonetblai.github.io/reports/AAAI18-pixels.pdf), AAAI 2018. | André Grahl
@@ -25,6 +25,10 @@ Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Mul
 
 Paper | Included | Current Deadline¹
 ------|----------|-----------------
+
+
+Battaglia, et al., [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf), arXiv 2018. | Dec 12, 2020 | Feb 22, 2020
+Shoham, et al., [The FESS Algorithm: A Feature Based Approach to Single-Agent Search](https://ieee-cog.org/2020/papers/paper_44.pdf), COC 2020. | Dec 12, 2020 | Feb 22, 2020
 Shen, et al., [Learning Domain-Independent Planning Heuristics with Hypergraph Networks](https://ojs.aaai.org/index.php/ICAPS/article/view/6754/6608), ICAPS 2020. | Nov 20, 2020 | Jan 30, 2020
 Hatem, et al., [Bounded Suboptimal Heuristic Search in Linear Space](http://matthatem.com/papers/idees-socs-13.pdf), SoCS 2013. | Sep 25, 2020 | Dec 4, 2020
 Hatem, et al., [Bounded Suboptimal Search in Linear Space: New Results](http://matthatem.com/papers/idasep-socs-14.pdf), SoCS 2014. | Sep 25, 2020 | Dec 4, 2020
