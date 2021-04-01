@@ -6,7 +6,7 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 
 Date       | Paper | Presenter
 -----------|-------|----------
-May 9, 2021, 14h, Zoom   | Shen et al., [Learning Domain-Independent Planning Heuristics with Hypergraph Networks](https://ojs.aaai.org/index.php/ICAPS/article/view/6754/6608), ICAPS 2020. | André Grahl
+Apr 9, 2021, 14h, Zoom   | Shen et al., [Learning Domain-Independent Planning Heuristics with Hypergraph Networks](https://ojs.aaai.org/index.php/ICAPS/article/view/6754/6608), ICAPS 2020. | André Grahl
 Dec 18, 2020, 14h, Zoom  | Santos et al., An LP-Based Approach for Goal Recognition as Planning, AAAI 2021. | Luísa
 Dec  4, 2020, 14h, Zoom  | Feng et al., [A Novel Automated Curriculum Strategy to Solve Hard Sokoban Planning  Instances](https://proceedings.neurips.cc/paper/2020/file/2051bd70fc110a2208bdbd4a743e7f79-Paper.pdf), NeurIPS 2020.| André Grahl
 Nov  20, 2020, 14h, Zoom  | Badia et al., [Agent57: Outperforming the Atari Human Benchmark](https://arxiv.org/abs/2003.13350), ICML 2020. | Marcus Ritt
