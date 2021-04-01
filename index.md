@@ -6,6 +6,7 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 
 Date       | Paper | Presenter
 -----------|-------|----------
+May 8, 2021, 14h, Zoom   | Shen et al., [Learning Domain-Independent Planning Heuristics with Hypergraph Networks](https://ojs.aaai.org/index.php/ICAPS/article/view/6754/6608), ICAPS 2020. | André Grahl
 Dec 18, 2020, 14h, Zoom  | Santos et al., An LP-Based Approach for Goal Recognition as Planning, AAAI 2021. | Luísa
 Dec  4, 2020, 14h, Zoom  | Feng et al., [A Novel Automated Curriculum Strategy to Solve Hard Sokoban Planning  Instances](https://proceedings.neurips.cc/paper/2020/file/2051bd70fc110a2208bdbd4a743e7f79-Paper.pdf), NeurIPS 2020.| André Grahl
 Nov  20, 2020, 14h, Zoom  | Badia et al., [Agent57: Outperforming the Atari Human Benchmark](https://arxiv.org/abs/2003.13350), ICML 2020. | Marcus Ritt
@@ -25,16 +26,16 @@ Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Mul
 
 Paper | Included | Current Deadline¹
 ------|----------|-----------------
-Agostinelli et al., [A* Search Without Expansions: Learning Heuristic Functions with Deep Q-Networks](https://arxiv.org/abs/2102.04518), pre-print | Feb 22, 2021 | -
-Battaglia et al., [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf), arXiv 2018. | Dec 12, 2020 | Feb 22, 2020
-Shoham et al., [The FESS Algorithm: A Feature Based Approach to Single-Agent Search](https://ieee-cog.org/2020/papers/paper_44.pdf), COC 2020. | Dec 12, 2020 | Feb 22, 2020
-Shen et al., [Learning Domain-Independent Planning Heuristics with Hypergraph Networks](https://ojs.aaai.org/index.php/ICAPS/article/view/6754/6608), ICAPS 2020. | Nov 20, 2020 | Jan 30, 2020
-Hatem et al., [Bounded Suboptimal Heuristic Search in Linear Space](http://matthatem.com/papers/idees-socs-13.pdf), SoCS 2013. | Sep 25, 2020 | Dec 4, 2020
-Hatem et al., [Bounded Suboptimal Search in Linear Space: New Results](http://matthatem.com/papers/idasep-socs-14.pdf), SoCS 2014. | Sep 25, 2020 | Dec 4, 2020
-Holler et al., [A Generic Method to Guide HTN Progression Search with Classical Heuristics](https://ai.dmi.unibas.ch/research/reading_group/hoeller-et-al-icaps2018.pdf), ICAPS 2018. | Sep 25, 2020 | Dec 4, 2020
-Kuroiwa Fukunaga, [Front-to-Front Heuristic Search for Satisficing Classical Planning](https://doi.org/10.24963/ijcai.2020/567), IJCAI 2020. | Jul 31, 2020 | Dec 4, 2020
+Agostinelli et al., [A* Search Without Expansions: Learning Heuristic Functions with Deep Q-Networks](https://arxiv.org/abs/2102.04518), pre-print | Feb 22, 2021 | May 22, 2021
+Battaglia et al., [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/pdf/1806.01261.pdf), arXiv 2018. | Dec 12, 2020 | May 22, 2021
+Shoham et al., [The FESS Algorithm: A Feature Based Approach to Single-Agent Search](https://ieee-cog.org/2020/papers/paper_44.pdf), COC 2020. | Dec 12, 2020 | May 22, 2021
+Shen et al., [Learning Domain-Independent Planning Heuristics with Hypergraph Networks](https://ojs.aaai.org/index.php/ICAPS/article/view/6754/6608), ICAPS 2020. | Nov 20, 2020 | May 30, 2021
+Hatem et al., [Bounded Suboptimal Heuristic Search in Linear Space](http://matthatem.com/papers/idees-socs-13.pdf), SoCS 2013. | Sep 25, 2020 | May 4, 2021
+Hatem et al., [Bounded Suboptimal Search in Linear Space: New Results](http://matthatem.com/papers/idasep-socs-14.pdf), SoCS 2014. | Sep 25, 2020 | May 4, 2021
+Holler et al., [A Generic Method to Guide HTN Progression Search with Classical Heuristics](https://ai.dmi.unibas.ch/research/reading_group/hoeller-et-al-icaps2018.pdf), ICAPS 2018. | Sep 25, 2020 | May 4, 2021
+Kuroiwa Fukunaga, [Front-to-Front Heuristic Search for Satisficing Classical Planning](https://doi.org/10.24963/ijcai.2020/567), IJCAI 2020. | Jul 31, 2020 | May 4, 2021
 
-¹Deadline is 70 days (5 meetings) after last time it received votes or was proposed.
+¹Deadline is two months after last time it received votes or was proposed.
 
 ### Queue Graveyard
 
