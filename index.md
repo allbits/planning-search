@@ -6,6 +6,7 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 
 Date       | Paper | Presenter
 -----------|-------|----------
+May 8, 2021, 14h, Zoom | Nair et al., [Solving Mixed Integer Programs Using Neural Networks](https://arxiv.org/abs/2012.13349), arXiv, 2020.  | Gabriel Langeloh
 Apr 23, 2021, 14h, Zoom | Battaglia et al., [Relational Inductive Biases, Deep Learning, and Graph Networks](https://arxiv.org/pdf/1806.01261.pdf), arXiv 2018.  | Alex Gliesch
 Apr 9, 2021, 14h, Zoom   | Shen et al., [Learning Domain-Independent Planning Heuristics with Hypergraph Networks](https://ojs.aaai.org/index.php/ICAPS/article/view/6754/6608), ICAPS 2020. | André Grahl
 Dec 18, 2020, 14h, Zoom  | Santos et al., [An LP-Based Approach for Goal Recognition as Planning](https://www.inf.ufrgs.br/~agpereira/lib/exe/fetch.php?media=santosaaai2021.pdf), AAAI 2021. | Luísa
