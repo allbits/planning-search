@@ -6,7 +6,8 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 
 Date       | Paper | Presenter
 -----------|-------|----------
-May 8, 2021, 14h, Zoom | Nair et al., [Solving Mixed Integer Programs Using Neural Networks](https://arxiv.org/abs/2012.13349), arXiv, 2020.  | Gabriel Langeloh
+May 21, 2021, 14h, Zoom | Holler et al., [A Generic Method to Guide HTN Progression Search with Classical Heuristics](https://ai.dmi.unibas.ch/research/reading_group/hoeller-et-al-icaps2018.pdf), ICAPS 2018. | André Grahl
+May 7, 2021, 14h, Zoom | Nair et al., [Solving Mixed Integer Programs Using Neural Networks](https://arxiv.org/abs/2012.13349), arXiv 2020.  | Gabriel Langeloh
 Apr 23, 2021, 14h, Zoom | Battaglia et al., [Relational Inductive Biases, Deep Learning, and Graph Networks](https://arxiv.org/pdf/1806.01261.pdf), arXiv 2018.  | Alex Gliesch
 Apr 9, 2021, 14h, Zoom   | Shen et al., [Learning Domain-Independent Planning Heuristics with Hypergraph Networks](https://ojs.aaai.org/index.php/ICAPS/article/view/6754/6608), ICAPS 2020. | André Grahl
 Dec 18, 2020, 14h, Zoom  | Santos et al., [An LP-Based Approach for Goal Recognition as Planning](https://www.inf.ufrgs.br/~agpereira/lib/exe/fetch.php?media=santosaaai2021.pdf), AAAI 2021. | Luísa
@@ -28,6 +29,7 @@ Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Mul
 
 Paper | Included | Current Deadline¹
 ------|----------|-----------------
+Orseau et al., [Single-Agent Policy Tree Search With Guarantees](https://arxiv.org/pdf/2103.11505.pdf), NeurIPS 2018. | Apr 9, 2021 | Jun 9, 2021
 Orseau et al., [Policy-Guided Heuristic Search with Guarantees](https://arxiv.org/pdf/2103.11505.pdf), AAAI 2021. | Apr 9, 2021 | Jun 9, 2021
 Li et al., [Scalable Rail Planning and Replanning: Winning the 2020 Flatland Challenge](http://idm-lab.org/bib/abstracts/papers/icaps21a.pdf), ICAPS 2021. | Apr 9, 2021 | Jun 9, 2021
 Mattmüller et al., [Pattern Database Heuristics for Fully Observable Nondeterministic Planning](https://www.aaai.org/ocs/index.php/ICAPS/ICAPS10/paper/viewPDFInterstitial/1430/1536), ICAPS 2010. | Apr 9, 2021 | Jun 9, 2021
@@ -35,7 +37,6 @@ Agostinelli et al., [A* Search Without Expansions: Learning Heuristic Functions 
 Shoham et al., [The FESS Algorithm: A Feature Based Approach to Single-Agent Search](https://ieee-cog.org/2020/papers/paper_44.pdf), COC 2020. | Dec 12, 2020 | May 22, 2021
 Hatem et al., [Bounded Suboptimal Heuristic Search in Linear Space](http://matthatem.com/papers/idees-socs-13.pdf), SoCS 2013. | Sep 25, 2020 | May 4, 2021
 Hatem et al., [Bounded Suboptimal Search in Linear Space: New Results](http://matthatem.com/papers/idasep-socs-14.pdf), SoCS 2014. | Sep 25, 2020 | May 4, 2021
-Holler et al., [A Generic Method to Guide HTN Progression Search with Classical Heuristics](https://ai.dmi.unibas.ch/research/reading_group/hoeller-et-al-icaps2018.pdf), ICAPS 2018. | Sep 25, 2020 | May 4, 2021
 Kuroiwa Fukunaga, [Front-to-Front Heuristic Search for Satisficing Classical Planning](https://doi.org/10.24963/ijcai.2020/567), IJCAI 2020. | Jul 31, 2020 | May 4, 2021
 
 ¹Deadline is two months after last time it received votes or was proposed.
