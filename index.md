@@ -30,7 +30,6 @@ Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Mul
 
 Paper | Included | Current Deadline¹
 ------|----------|-----------------
-
 Zilberstein et al., [LAO* a Heuristic Search Algorithm that Finds Solutions with Loops](https://www.sciencedirect.com/science/article/pii/S0004370201001060), AIJ 2001. | May 21, 2021 | Jul 21, 2021
 Behnke et al., [Delete- and Ordering-Relaxation Heuristics for HTN Planning](https://www.ijcai.org/proceedings/2020/564), IJCAI 2020. | May 21, 2021 | Jul 21, 2021
 Lindauer et al., [Learning Heuristic Selection with Dynamic Algorithm Configuration](https://ojs.aaai.org/index.php/ICAPS/article/view/16008), ICAPS 2021. | May 21, 2021 | Jul 21, 2021
