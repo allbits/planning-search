@@ -6,6 +6,7 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 
 Date       | Paper | Presenter
 -----------|-------|----------
+Oct 22, 2021, 14h, Zoom | Jumper et al., [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2), Nature, 2021.
 Jun 4, 2021, 14h, Zoom |Orseau et al., [Single-Agent Policy Tree Search With Guarantees](https://papers.nips.cc/paper/2018/hash/52c5189391854c93e8a0e1326e56c14f-Abstract.html), NeurIPS 2018. | Rafael V. Bettker
 May 21, 2021, 14h, Zoom | Holler et al., [A Generic Method to Guide HTN Progression Search with Classical Heuristics](https://ai.dmi.unibas.ch/research/reading_group/hoeller-et-al-icaps2018.pdf), ICAPS 2018. | André Grahl
 May 7, 2021, 14h, Zoom | Nair et al., [Solving Mixed Integer Programs Using Neural Networks](https://arxiv.org/abs/2012.13349), arXiv 2020.  | Gabriel Langeloh
