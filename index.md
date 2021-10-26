@@ -6,6 +6,7 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 
 Date       | Paper | Presenter
 -----------|-------|----------
+Nov 5, 2021, 14h, Zoom | Trevizan et al., [Occupation measure heuristics for probabilistic planning](https://ojs.aaai.org/index.php/ICAPS/article/view/13840/13689), ICAPS, 2017. | Frederico
 Oct 22, 2021, 14h, Zoom | Jumper et al., [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2), Nature, 2021. ([Blog page](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology).) | Pedro P. Minini
 Jun 4, 2021, 14h, Zoom |Orseau et al., [Single-Agent Policy Tree Search With Guarantees](https://papers.nips.cc/paper/2018/hash/52c5189391854c93e8a0e1326e56c14f-Abstract.html), NeurIPS 2018. | Rafael V. Bettker
 May 21, 2021, 14h, Zoom | Holler et al., [A Generic Method to Guide HTN Progression Search with Classical Heuristics](https://ai.dmi.unibas.ch/research/reading_group/hoeller-et-al-icaps2018.pdf), ICAPS 2018. | André Grahl
@@ -31,9 +32,9 @@ Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Mul
 
 Paper | Included | Current Deadline¹
 ------|----------|-----------------
-Beck et al., [Improved Non-Deterministic Planning by Exploiting State Relevance](http://www.cs.toronto.edu/~sheila/publications/mui-mci-bec-icaps12.pdf), ICAPS 2012. | Oct 22, 2021 | Dec 22, 2021
 Geffner et al., [Compact Policies for Fully-Observable Non-Deterministic Planning as SAT](https://ai.dmi.unibas.ch/research/reading_group/geffner-geffner-icaps2018.pdf), ICAPS 2018. | Oct 22, 2021 | Dec 22, 2021
 Fukunaga et al., [On Transposition Tables for Single-Agent Search and Planning: Summary of Results](https://ojs.aaai.org/index.php/SOCS/article/view/18164/17955), SoCS 2010. | Oct 22, 2021 | Dec 22, 2021
+Beck et al., [Improved Non-Deterministic Planning by Exploiting State Relevance](http://www.cs.toronto.edu/~sheila/publications/mui-mci-bec-icaps12.pdf), ICAPS 2012. | Oct 22, 2021 | Dec 22, 2021
 Zilberstein et al., [LAO* a Heuristic Search Algorithm that Finds Solutions with Loops](https://www.sciencedirect.com/science/article/pii/S0004370201001060), AIJ 2001. | Oct 22, 2021 | Dec 22, 2021
 Helmert et al., [Saturated Post-hoc Optimization for Classical Planning](https://ai.dmi.unibas.ch/papers/seipp-et-al-aaai2021.pdf), AAAI 2021. | Oct 22, 2021 | Dec 22, 2021
 Li et al., [Scalable Rail Planning and Replanning: Winning the 2020 Flatland Challenge](http://idm-lab.org/bib/abstracts/papers/icaps21a.pdf), ICAPS 2021. | Oct 22, 2021 | Dec 22, 2021
