@@ -6,13 +6,13 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 
 Date       | Paper | Presenter
 -----------|-------|----------
-Nov 19, 2021, 14h, Zoom | Helmert et al., [Saturated Post-hoc Optimization for Classical Planning](https://ai.dmi.unibas.ch/papers/seipp-et-al-aaai2021.pdf), AAAI 2021. | 
-Nov 5, 2021, 14h, Zoom | Trevizan et al., [Occupation measure heuristics for probabilistic planning](https://ojs.aaai.org/index.php/ICAPS/article/view/13840/13689), ICAPS, 2017. | Frederico
+Nov 19, 2021, 14h, Zoom | Helmert et al., [Saturated Post-hoc Optimization for Classical Planning](https://ai.dmi.unibas.ch/papers/seipp-et-al-aaai2021.pdf), AAAI 2021. | André Grahl
+Nov 5, 2021, 14h, Zoom  | Trevizan et al., [Occupation measure heuristics for probabilistic planning](https://ojs.aaai.org/index.php/ICAPS/article/view/13840/13689), ICAPS, 2017. | Frederico
 Oct 22, 2021, 14h, Zoom | Jumper et al., [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2), Nature, 2021. ([Blog page](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology).) | Pedro P. Minini
-Jun 4, 2021, 14h, Zoom |Orseau et al., [Single-Agent Policy Tree Search With Guarantees](https://papers.nips.cc/paper/2018/hash/52c5189391854c93e8a0e1326e56c14f-Abstract.html), NeurIPS 2018. | Rafael V. Bettker
-May 21, 2021, 14h, Zoom | Holler et al., [A Generic Method to Guide HTN Progression Search with Classical Heuristics](https://ai.dmi.unibas.ch/research/reading_group/hoeller-et-al-icaps2018.pdf), ICAPS 2018. | André Grahl
-May 7, 2021, 14h, Zoom | Nair et al., [Solving Mixed Integer Programs Using Neural Networks](https://arxiv.org/abs/2012.13349), arXiv 2020.  | Gabriel Langeloh
-Apr 23, 2021, 14h, Zoom | Battaglia et al., [Relational Inductive Biases, Deep Learning, and Graph Networks](https://arxiv.org/pdf/1806.01261.pdf), arXiv 2018.  | Alex Gliesch
+Jun 4, 2021, 14h, Zoom   |Orseau et al., [Single-Agent Policy Tree Search With Guarantees](https://papers.nips.cc/paper/2018/hash/52c5189391854c93e8a0e1326e56c14f-Abstract.html), NeurIPS 2018. | Rafael V. Bettker
+May 21, 2021, 14h, Zoom  | Holler et al., [A Generic Method to Guide HTN Progression Search with Classical Heuristics](https://ai.dmi.unibas.ch/research/reading_group/hoeller-et-al-icaps2018.pdf), ICAPS 2018. | André Grahl
+May 7, 2021, 14h, Zoom   | Nair et al., [Solving Mixed Integer Programs Using Neural Networks](https://arxiv.org/abs/2012.13349), arXiv 2020.  | Gabriel Langeloh
+Apr 23, 2021, 14h, Zoom  | Battaglia et al., [Relational Inductive Biases, Deep Learning, and Graph Networks](https://arxiv.org/pdf/1806.01261.pdf), arXiv 2018.  | Alex Gliesch
 Apr 9, 2021, 14h, Zoom   | Shen et al., [Learning Domain-Independent Planning Heuristics with Hypergraph Networks](https://ojs.aaai.org/index.php/ICAPS/article/view/6754/6608), ICAPS 2020. | André Grahl
 Dec 18, 2020, 14h, Zoom  | Santos et al., [An LP-Based Approach for Goal Recognition as Planning](https://www.inf.ufrgs.br/~agpereira/lib/exe/fetch.php?media=santosaaai2021.pdf), AAAI 2021. | Luísa
 Dec  4, 2020, 14h, Zoom  | Feng et al., [A Novel Automated Curriculum Strategy to Solve Hard Sokoban Planning  Instances](https://proceedings.neurips.cc/paper/2020/file/2051bd70fc110a2208bdbd4a743e7f79-Paper.pdf), NeurIPS 2020.| André Grahl
