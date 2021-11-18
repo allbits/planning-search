@@ -33,6 +33,13 @@ Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Mul
 
 Paper | Included | Current Deadline¹
 ------|----------|-----------------
+
+Pearl J., [Heuristics: Intelligent Search Strategies for Computer Problem Solving](https://mat.uab.cat/~alseda/MasterOpt/Judea_Pearl-Heuristics_Intelligent_Search_Strategies_for_Computer_Problem_Solving.pdf), 1984. | Nov 19, 2021 | Jan 19, 2021
+Ng A., [Machine Learning Yearning](https://github.com/ajaymache/machine-learning-yearning/blob/master/full%20book/machine-learning-yearning.pdf), 2018. | Nov 19, 2021 | Jan 19, 2021
+Helmert M., [On the Complexity of Planning in Transportation Domains](https://helios.hud.ac.uk/scommv/IPC-14/repository/backstrom-nebel-ci-1995.pdf), ECP 2011. | Nov 19, 2021 | Jan 19, 2021
+Nebel et al., [Complexity Results for SAS+ Planning](https://ojs.aaai.org/index.php/ICAPS/article/view/16005/15816), CI 1995. | Nov 19, 2021 | Jan 19, 2021
+Bylander T., [The Computational Complexity of Propositional STRIPS Planning](https://ai.dmi.unibas.ch/_files/teaching/hs19/po/misc/bylander-aij1994.pdf), AIJ 1994. | Nov 19, 2021 | Jan 19, 2021
+Jonsson et al., [Generalized Planning as Heuristic Search](https://ojs.aaai.org/index.php/ICAPS/article/view/16005/15816), ICAPS 2021. | Nov 19, 2021 | Jan 19, 2021
 Geffner et al., [Compact Policies for Fully-Observable Non-Deterministic Planning as SAT](https://ai.dmi.unibas.ch/research/reading_group/geffner-geffner-icaps2018.pdf), ICAPS 2018. | Oct 22, 2021 | Dec 22, 2021
 Fukunaga et al., [On Transposition Tables for Single-Agent Search and Planning: Summary of Results](https://ojs.aaai.org/index.php/SOCS/article/view/18164/17955), SoCS 2010. | Oct 22, 2021 | Dec 22, 2021
 Beck et al., [Improved Non-Deterministic Planning by Exploiting State Relevance](http://www.cs.toronto.edu/~sheila/publications/mui-mci-bec-icaps12.pdf), ICAPS 2012. | Oct 22, 2021 | Dec 22, 2021
