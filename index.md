@@ -33,7 +33,6 @@ Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Mul
 
 Paper | Included | Current Deadline¹
 ------|----------|-----------------
-
 Pearl J., [Heuristics: Intelligent Search Strategies for Computer Problem Solving](https://mat.uab.cat/~alseda/MasterOpt/Judea_Pearl-Heuristics_Intelligent_Search_Strategies_for_Computer_Problem_Solving.pdf), 1984. | Nov 19, 2021 | Jan 19, 2021
 Ng A., [Machine Learning Yearning](https://github.com/ajaymache/machine-learning-yearning/blob/master/full%20book/machine-learning-yearning.pdf), 2018. | Nov 19, 2021 | Jan 19, 2021
 Helmert M., [On the Complexity of Planning in Transportation Domains](https://helios.hud.ac.uk/scommv/IPC-14/repository/backstrom-nebel-ci-1995.pdf), ECP 2011. | Nov 19, 2021 | Jan 19, 2021
