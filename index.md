@@ -6,6 +6,7 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 
 Date       | Paper | Presenter
 -----------|-------|----------
+Dec 03, 2021, 14h, Zoom | Bylander T., [The Computational Complexity of Propositional STRIPS Planning](https://ai.dmi.unibas.ch/_files/teaching/hs19/po/misc/bylander-aij1994.pdf), AIJ 1994. | Rafael V. Bettker
 Nov 19, 2021, 14h, Zoom | Helmert et al., [Saturated Post-hoc Optimization for Classical Planning](https://ai.dmi.unibas.ch/papers/seipp-et-al-aaai2021.pdf), AAAI 2021. | André Grahl
 Nov 5, 2021, 14h, Zoom  | Trevizan et al., [Occupation measure heuristics for probabilistic planning](https://ojs.aaai.org/index.php/ICAPS/article/view/13840/13689), ICAPS, 2017. | Frederico
 Oct 22, 2021, 14h, Zoom | Jumper et al., [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2), Nature, 2021. ([Blog page](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology).) | Pedro P. Minini
@@ -37,7 +38,6 @@ Pearl J., [Heuristics: Intelligent Search Strategies for Computer Problem Solvin
 Ng A., [Machine Learning Yearning](https://github.com/ajaymache/machine-learning-yearning/blob/master/full%20book/machine-learning-yearning.pdf), 2018. | Nov 19, 2021 | Jan 19, 2021
 Helmert M., [On the Complexity of Planning in Transportation Domains](https://ai.dmi.unibas.ch/papers/helmert-ecp2001.pdf), ECP 2011. | Nov 19, 2021 | Jan 19, 2021
 Nebel et al., [Complexity Results for SAS+ Planning](https://helios.hud.ac.uk/scommv/IPC-14/repository/backstrom-nebel-ci-1995.pdf), CI 1995. | Nov 19, 2021 | Jan 19, 2021
-Bylander T., [The Computational Complexity of Propositional STRIPS Planning](https://ai.dmi.unibas.ch/_files/teaching/hs19/po/misc/bylander-aij1994.pdf), AIJ 1994. | Nov 19, 2021 | Jan 19, 2021
 Jonsson et al., [Generalized Planning as Heuristic Search](https://ojs.aaai.org/index.php/ICAPS/article/view/16005/15816), ICAPS 2021. | Nov 19, 2021 | Jan 19, 2021
 Geffner et al., [Compact Policies for Fully-Observable Non-Deterministic Planning as SAT](https://ai.dmi.unibas.ch/research/reading_group/geffner-geffner-icaps2018.pdf), ICAPS 2018. | Oct 22, 2021 | Dec 22, 2021
 Fukunaga et al., [On Transposition Tables for Single-Agent Search and Planning: Summary of Results](https://ojs.aaai.org/index.php/SOCS/article/view/18164/17955), SoCS 2010. | Oct 22, 2021 | Dec 22, 2021
