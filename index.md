@@ -34,7 +34,6 @@ Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Mul
 
 Paper | Included | Current Deadline¹
 ------|----------|-----------------
-
 Geffner. et al., [Learning General Optimal Policies with Graph Neural Networks: Expressive Power, Transparency, and Limits](https://arxiv.org/pdf/2109.10129.pdf), 2022. | May 27, 2022 | Jul 27, 2022
 Katz. et al., [Reinforcement Learning for Classical Planning: Viewing Heuristics as Dense Reward Generators](https://arxiv.org/pdf/2109.14830.pdf), 2022. | May 27, 2022 | Jul 27, 2022
 Francès et al., [Generalized Potential Heuristics for Classical Planning](https://www.ijcai.org/proceedings/2019/771), 2019. | May 27, 2022 | Jul 27, 2022
