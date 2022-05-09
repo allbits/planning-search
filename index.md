@@ -6,7 +6,7 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 
 Date       | Paper | Presenter
 -----------|-------|----------
-Dec 03, 2021, 14h, Zoom | Bylander T., [The Computational Complexity of Propositional STRIPS Planning](https://ai.dmi.unibas.ch/_files/teaching/hs19/po/misc/bylander-aij1994.pdf), AIJ 1994. | Rafael V. Bettker
+Dec 03, 2021, 14h, Zoom | Bylander T., [The Computational Complexity of Propositional STRIPS Planning (Sections 1 to 3)](https://ai.dmi.unibas.ch/_files/teaching/hs19/po/misc/bylander-aij1994.pdf), AIJ 1994. | Rafael V. Bettker
 Nov 19, 2021, 14h, Zoom | Helmert et al., [Saturated Post-hoc Optimization for Classical Planning](https://ai.dmi.unibas.ch/papers/seipp-et-al-aaai2021.pdf), AAAI 2021. | André Grahl
 Nov 5, 2021, 14h, Zoom  | Trevizan et al., [Occupation measure heuristics for probabilistic planning](https://ojs.aaai.org/index.php/ICAPS/article/view/13840/13689), ICAPS, 2017. | Frederico
 Oct 22, 2021, 14h, Zoom | Jumper et al., [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2), Nature, 2021. ([Blog page](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology).) | Pedro P. Minini
@@ -34,6 +34,12 @@ Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Mul
 
 Paper | Included | Current Deadline¹
 ------|----------|-----------------
+
+Geffner. et al., [Learning General Optimal Policies with Graph Neural Networks: Expressive Power, Transparency, and Limits](https://arxiv.org/pdf/2109.10129.pdf), 2022. | May 27, 2022 | Jul 27, 2022
+Katz. et al., [Reinforcement Learning for Classical Planning: Viewing Heuristics as Dense Reward Generators](https://arxiv.org/pdf/2109.14830.pdf), 2022. | May 27, 2022 | Jul 27, 2022
+Francès et al., [Generalized Potential Heuristics for Classical Planning](https://www.ijcai.org/proceedings/2019/771), 2019. | May 27, 2022 | Jul 27, 2022
+Helmert et al., [Preferred Operators and Deferred Evaluation in Satisficing Planning](https://ojs.aaai.org/index.php/ICAPS/article/view/13345), 2009. | May 27, 2022 | Jul 27, 2022
+Asai et al., [Is Policy Learning Overrated?: Width-Based Planning and Active Learning for Atari](https://arxiv.org/pdf/2109.15310.pdf), 2022. | May 27, 2022 | Jul 27, 2022
 Pearl J., [Heuristics: Intelligent Search Strategies for Computer Problem Solving](https://mat.uab.cat/~alseda/MasterOpt/Judea_Pearl-Heuristics_Intelligent_Search_Strategies_for_Computer_Problem_Solving.pdf), 1984. | Nov 19, 2021 | Jan 19, 2021
 Ng A., [Machine Learning Yearning](https://github.com/ajaymache/machine-learning-yearning/blob/master/full%20book/machine-learning-yearning.pdf), 2018. | Nov 19, 2021 | Jan 19, 2021
 Helmert M., [On the Complexity of Planning in Transportation Domains](https://ai.dmi.unibas.ch/papers/helmert-ecp2001.pdf), ECP 2011. | Nov 19, 2021 | Jan 19, 2021
