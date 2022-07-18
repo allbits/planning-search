@@ -38,8 +38,8 @@ Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Mul
 Paper | Included | Current Deadline¹
 ------|----------|-----------------
 Fukunaga et al., [Classical Planning in Deep Latent Space: Bridging the Subsymbolic-Symbolic Boundary](https://ojs.aaai.org/index.php/AAAI/article/download/12077/11936), AAAI 2018. | Jun 15, 2022 | Aug 15, 2022
-Onaindia et al., [Learning STRIPS Action Models with Classical Planning](https://ojs.aaai.org/index.php/ICAPS/article/download/13870/13719/17388), AAAI. 2018 | Jun 15, 2022 | Aug 15, 2022
-Wierstra et al., [Imagination-Augmented Agents for Deep Reinforcement Learning](https://proceedings.neurips.cc/paper/2017/file/9e82757e9a1c12cb710ad680db11f6f1-Paper.pdf), NeurIPS | Jun 15, 2022 | Aug 15, 2022
+Onaindia et al., [Learning STRIPS Action Models with Classical Planning](https://ojs.aaai.org/index.php/ICAPS/article/download/13870/13719/17388), AAAI 2018. | Jun 15, 2022 | Aug 15, 2022
+Wierstra et al., [Imagination-Augmented Agents for Deep Reinforcement Learning](https://proceedings.neurips.cc/paper/2017/file/9e82757e9a1c12cb710ad680db11f6f1-Paper.pdf), NeurIPS 2017. | Jun 15, 2022 | Aug 15, 2022
 Kambhampatib et al., [Action-Model Acquisition from Noisy Plan Traces](https://www.ijcai.org/Proceedings/13/Papers/359.pdf), IJCAI 2013. | Jun 15, 2022 | Aug 15, 2022
 Geffner et al., [Learning Generalized Policies Without Supervision Using GNNs](https://arxiv.org/pdf/2205.06002.pdf), arXiv 2022. | May 27, 2022 | Jul 27, 2022
 Francès et al., [Generalized Potential Heuristics for Classical Planning](https://www.ijcai.org/proceedings/2019/771), IJCAI 2019. | May 27, 2022 | Jul 27, 2022
