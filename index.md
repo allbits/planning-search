@@ -6,6 +6,7 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 
 Date       | Paper | Presenter
 -----------|-------|----------
+Jul 22, 2022, 14h, Hybrid | Pearce et al., [Sampling from Pre-Images to Learn Heuristic Functions for Classical Planning] (https://arxiv.org/pdf/2207.03336.pdf), arXiv 2022 | André Grahl
 Jul 15, 2022, 14h, Hybrid | Katz. et al., [Reinforcement Learning for Classical Planning: Viewing Heuristics as Dense Reward Generators](https://arxiv.org/pdf/2109.14830.pdf), arXiv 2022. | Rafael V. Bettker
 Jun 01, 2022, 14h, Hybrid | Geffner. et al., [Learning General Optimal Policies with Graph Neural Networks: Expressive Power, Transparency, and Limits](http://icaps22.icaps-conference.org/papers/119/index.html), ICAPS 2022. | Pedro P. Minini
 Dec 03, 2021, 14h, Zoom | Bylander T., [The Computational Complexity of Propositional STRIPS Planning (Sections 1 to 3)](https://ai.dmi.unibas.ch/_files/teaching/hs19/po/misc/bylander-aij1994.pdf), AIJ 1994. | Rafael V. Bettker
@@ -36,10 +37,14 @@ Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Mul
 
 Paper | Included | Current Deadline¹
 ------|----------|-----------------
-Geffner. et al., [Learning Generalized Policies Without Supervision Using GNNs](https://arxiv.org/pdf/2205.06002.pdf), 2022. | May 27, 2022 | Jul 27, 2022
-Francès et al., [Generalized Potential Heuristics for Classical Planning](https://www.ijcai.org/proceedings/2019/771), 2019. | May 27, 2022 | Jul 27, 2022
-Helmert et al., [Preferred Operators and Deferred Evaluation in Satisficing Planning](https://ojs.aaai.org/index.php/ICAPS/article/view/13345), 2009. | May 27, 2022 | Jul 27, 2022
-Asai et al., [Is Policy Learning Overrated?: Width-Based Planning and Active Learning for Atari](https://arxiv.org/pdf/2109.15310.pdf), 2022. | May 27, 2022 | Jul 27, 2022
+Pearce et al., [Sampling from Pre-Images to Learn Heuristic Functions for Classical Planning] (https://arxiv.org/pdf/2207.03336.pdf), arXiv 2022 | Jun 15, 2022 | Aug 15, 2022
+Onaindia et al., [Learning STRIPS Action Models with Classical Planning] (https://ojs.aaai.org/index.php/ICAPS/article/download/13870/13719/17388), AAAI 2018 | Jun 15, 2022 | Aug 15, 2022
+Wierstra et al., [Imagination-Augmented Agents for Deep Reinforcement Learning] (https://proceedings.neurips.cc/paper/2017/file/9e82757e9a1c12cb710ad680db11f6f1-Paper.pdf), NeurIPS | Jun 15, 2022 | Aug 15, 2022
+Kambhampatib et al., [Action-Model Acquisition from Noisy Plan Traces](https://www.ijcai.org/Proceedings/13/Papers/359.pdf), IJCAI 2013. | Jun 15, 2022 | Aug 15, 2022
+Geffner et al., [Learning Generalized Policies Without Supervision Using GNNs](https://arxiv.org/pdf/2205.06002.pdf), arXiv 2022. | May 27, 2022 | Jul 27, 2022
+Francès et al., [Generalized Potential Heuristics for Classical Planning](https://www.ijcai.org/proceedings/2019/771), IJCAI 2019. | May 27, 2022 | Jul 27, 2022
+Helmert et al., [Preferred Operators and Deferred Evaluation in Satisficing Planning](https://ojs.aaai.org/index.php/ICAPS/article/view/13345), AAAI 2009. | May 27, 2022 | Jul 27, 2022
+Asai et al., [Is Policy Learning Overrated?: Width-Based Planning and Active Learning for Atari](https://arxiv.org/pdf/2109.15310.pdf), arXiv 2022. | May 27, 2022 | Jul 27, 2022
 Pearl J., [Heuristics: Intelligent Search Strategies for Computer Problem Solving](https://mat.uab.cat/~alseda/MasterOpt/Judea_Pearl-Heuristics_Intelligent_Search_Strategies_for_Computer_Problem_Solving.pdf), 1984. | Nov 19, 2021 | Jan 19, 2021
 Ng A., [Machine Learning Yearning](https://github.com/ajaymache/machine-learning-yearning/blob/master/full%20book/machine-learning-yearning.pdf), 2018. | Nov 19, 2021 | Jan 19, 2021
 Helmert M., [On the Complexity of Planning in Transportation Domains](https://ai.dmi.unibas.ch/papers/helmert-ecp2001.pdf), ECP 2011. | Nov 19, 2021 | Jan 19, 2021
