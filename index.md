@@ -6,6 +6,7 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 
 Date       | Paper | Presenter
 -----------|-------|----------
+Aug 12, 2022, 14h, Hybrid | Muise et al., [Planning for a Single Agent in a Multi-Agent Environment Using FOND](https://www.ijcai.org/Proceedings/16/Papers/454.pdf), IJCAI 2016. | Frederico
 Jul 22, 2022, 14h, Hybrid | Pearce et al., [Sampling from Pre-Images to Learn Heuristic Functions for Classical Planning](https://arxiv.org/pdf/2207.03336.pdf), arXiv 2022. | André Grahl
 Jul 15, 2022, 14h, Hybrid | Katz. et al., [Reinforcement Learning for Classical Planning: Viewing Heuristics as Dense Reward Generators](https://arxiv.org/pdf/2109.14830.pdf), arXiv 2022. | Rafael V. Bettker
 Jun 01, 2022, 14h, Hybrid | Geffner. et al., [Learning General Optimal Policies with Graph Neural Networks: Expressive Power, Transparency, and Limits](http://icaps22.icaps-conference.org/papers/119/index.html), ICAPS 2022. | Pedro P. Minini
@@ -37,7 +38,6 @@ Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Mul
 
 Paper | Included | Current Deadline¹
 ------|----------|-----------------
-Muise et al., [Planning for a Single Agent in a Multi-Agent Environment Using FOND](https://www.ijcai.org/Proceedings/16/Papers/454.pdf), IJCAI 2016. | Jun 22, 2022 | Aug 22, 2022
 Fukunaga et al., [Classical Planning in Deep Latent Space: Bridging the Subsymbolic-Symbolic Boundary](https://ojs.aaai.org/index.php/AAAI/article/download/12077/11936), AAAI 2018. | Jun 15, 2022 | Aug 15, 2022
 Onaindia et al., [Learning STRIPS Action Models with Classical Planning](https://ojs.aaai.org/index.php/ICAPS/article/download/13870/13719/17388), AAAI 2018. | Jun 15, 2022 | Aug 15, 2022
 Wierstra et al., [Imagination-Augmented Agents for Deep Reinforcement Learning](https://proceedings.neurips.cc/paper/2017/file/9e82757e9a1c12cb710ad680db11f6f1-Paper.pdf), NeurIPS 2017. | Jun 15, 2022 | Aug 15, 2022
