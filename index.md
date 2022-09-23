@@ -6,6 +6,7 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 
 Date       | Paper | Presenter
 -----------|-------|----------
+Oct 07, 2022, 14h, Meet | Oki et al., [Sample Complexity of Learning Heuristic Functions for Greedy-Best-First and A* Search](https://arxiv.org/abs/2205.09963), NeurIPS 2023. | Marcus Ritt
 Sep 23, 2022, 14h, Meet | Muise et al., [Planning for a Single Agent in a Multi-Agent Environment Using FOND](https://www.ijcai.org/Proceedings/16/Papers/454.pdf), IJCAI 2016. | Frederico
 Jul 22, 2022, 14h, Hybrid | Pearce et al., [Sampling from Pre-Images to Learn Heuristic Functions for Classical Planning](https://arxiv.org/pdf/2207.03336.pdf), arXiv 2022. | André Grahl
 Jul 15, 2022, 14h, Hybrid | Katz. et al., [Reinforcement Learning for Classical Planning: Viewing Heuristics as Dense Reward Generators](https://arxiv.org/pdf/2109.14830.pdf), arXiv 2022. | Rafael V. Bettker
