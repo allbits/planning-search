@@ -6,7 +6,8 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 
 Date       | Paper | Presenter
 -----------|-------|----------
-Oct 07, 2022, 14h, Meet | Oki et al., [Sample Complexity of Learning Heuristic Functions for Greedy-Best-First and A* Search](https://arxiv.org/abs/2205.09963), NeurIPS 2023. | Marcus Ritt
+Nov 25, 2022, 14h, Meet | Domshlak et al., [Optimal Search with Inadmissible Heuristics](https://ojs.aaai.org/index.php/ICAPS/article/view/13499), IJCAI 2012. | André Grahl
+Oct 14, 2022, 14h, Meet | Oki et al., [Sample Complexity of Learning Heuristic Functions for Greedy-Best-First and A* Search](https://arxiv.org/abs/2205.09963), NeurIPS 2023. | Marcus Ritt
 Sep 23, 2022, 14h, Meet | Muise et al., [Planning for a Single Agent in a Multi-Agent Environment Using FOND](https://www.ijcai.org/Proceedings/16/Papers/454.pdf), IJCAI 2016. | Frederico
 Jul 22, 2022, 14h, Hybrid | Pearce et al., [Sampling from Pre-Images to Learn Heuristic Functions for Classical Planning](https://arxiv.org/pdf/2207.03336.pdf), arXiv 2022. | André Grahl
 Jul 15, 2022, 14h, Hybrid | Katz. et al., [Reinforcement Learning for Classical Planning: Viewing Heuristics as Dense Reward Generators](https://arxiv.org/pdf/2109.14830.pdf), arXiv 2022. | Rafael V. Bettker
@@ -39,8 +40,8 @@ Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Mul
 
 Paper | Included | Current Deadline¹
 ------|----------|-----------------
-Domshlak et al., [Optimal Search with Inadmissible Heuristics](https://ojs.aaai.org/index.php/ICAPS/article/view/13499), IJCAI 12. | Set 30, 2022 | Nov 30, 2022
-Muise et al., [Learning Neural-Symbolic Descriptive Planning Models via Cube-Space Priors: The Voyage Home (to STRIPS)](https://www.ijcai.org/proceedings/2020/0371.pdf), IJCAI 20. | Set 23, 2022 | Nov 23, 2022
+Song et al., [Retro*: Learning Retrosynthetic Planning with Neural Guided A* Search](https://proceedings.mlr.press/v119/chen20k.html), ICML 2020. | Oct 14, 2022 | Dec 14, 2022
+Muise et al., [Learning Neural-Symbolic Descriptive Planning Models via Cube-Space Priors: The Voyage Home (to STRIPS)](https://www.ijcai.org/proceedings/2020/0371.pdf), IJCAI 2020. | Set 23, 2022 | Nov 23, 2022
 Fukunaga et al., [Classical Planning in Deep Latent Space: Bridging the Subsymbolic-Symbolic Boundary](https://ojs.aaai.org/index.php/AAAI/article/download/12077/11936), AAAI 2018. | Jun 15, 2022 | Aug 15, 2022
 Onaindia et al., [Learning STRIPS Action Models with Classical Planning](https://ojs.aaai.org/index.php/ICAPS/article/download/13870/13719/17388), AAAI 2018. | Jun 15, 2022 | Aug 15, 2022
 Wierstra et al., [Imagination-Augmented Agents for Deep Reinforcement Learning](https://proceedings.neurips.cc/paper/2017/file/9e82757e9a1c12cb710ad680db11f6f1-Paper.pdf), NeurIPS 2017. | Jun 15, 2022 | Aug 15, 2022
