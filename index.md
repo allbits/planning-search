@@ -40,6 +40,8 @@ Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Mul
 
 Paper | Included | Current Deadline¹
 ------|----------|-----------------
+Chrestien et al., [A Differentiable Loss Function for Learning Heuristics in A*](https://arxiv.org/pdf/2209.05206.pdf), arXiv 2022. | Nov 08, 2022 | Jan 08, 2023
+Chrestien et al., [Heuristic Search Planning with Deep Neural Networks using Imitation, Attention and Curriculum Learning](https://arxiv.org/pdf/2112.01918.pdf), arXiv 2021. | Nov 08, 2022 | Jan 08, 2023
 Song et al., [Retro*: Learning Retrosynthetic Planning with Neural Guided A* Search](https://proceedings.mlr.press/v119/chen20k.html), ICML 2020. | Oct 14, 2022 | Dec 14, 2022
 Muise et al., [Learning Neural-Symbolic Descriptive Planning Models via Cube-Space Priors: The Voyage Home (to STRIPS)](https://www.ijcai.org/proceedings/2020/0371.pdf), IJCAI 2020. | Set 23, 2022 | Nov 23, 2022
 Fukunaga et al., [Classical Planning in Deep Latent Space: Bridging the Subsymbolic-Symbolic Boundary](https://ojs.aaai.org/index.php/AAAI/article/download/12077/11936), AAAI 2018. | Jun 15, 2022 | Aug 15, 2022
