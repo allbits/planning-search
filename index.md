@@ -6,6 +6,7 @@ If you are interested in joining the reading group, please contact [Prof. Marcus
 
 Date       | Paper | Presenter
 -----------|-------|----------
+Dec 09, 2022, 14h, Meet | Chrestien et al., [A Differentiable Loss Function for Learning Heuristics in A*](https://arxiv.org/pdf/2209.05206.pdf), arXiv 2022. | Pedro P. Minini
 Nov 25, 2022, 14h, Meet | Domshlak et al., [Optimal Search with Inadmissible Heuristics](https://ojs.aaai.org/index.php/ICAPS/article/view/13499), ICAPS 2012. | André Grahl
 Oct 14, 2022, 14h, Meet | Oki et al., [Sample Complexity of Learning Heuristic Functions for Greedy-Best-First and A* Search](https://arxiv.org/abs/2205.09963), NeurIPS 2023. | Marcus Ritt
 Sep 23, 2022, 14h, Meet | Muise et al., [Planning for a Single Agent in a Multi-Agent Environment Using FOND](https://www.ijcai.org/Proceedings/16/Papers/454.pdf), IJCAI 2016. | Frederico
@@ -40,7 +41,6 @@ Jun  5, 2020, 14h, Zoom  | Sharon et al., [Conflict-Based Search For Optimal Mul
 
 Paper | Included | Current Deadline¹
 ------|----------|-----------------
-Chrestien et al., [A Differentiable Loss Function for Learning Heuristics in A*](https://arxiv.org/pdf/2209.05206.pdf), arXiv 2022. | Nov 08, 2022 | Jan 08, 2023
 Chrestien et al., [Heuristic Search Planning with Deep Neural Networks using Imitation, Attention and Curriculum Learning](https://arxiv.org/pdf/2112.01918.pdf), arXiv 2021. | Nov 08, 2022 | Jan 08, 2023
 Song et al., [Retro*: Learning Retrosynthetic Planning with Neural Guided A* Search](https://proceedings.mlr.press/v119/chen20k.html), ICML 2020. | Oct 14, 2022 | Dec 14, 2022
 Muise et al., [Learning Neural-Symbolic Descriptive Planning Models via Cube-Space Priors: The Voyage Home (to STRIPS)](https://www.ijcai.org/proceedings/2020/0371.pdf), IJCAI 2020. | Set 23, 2022 | Nov 23, 2022
